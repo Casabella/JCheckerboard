@@ -1,6 +1,7 @@
 (function($) {
 		/**
 		*	Author : Hugo Casabella
+		*	URL : hugo.casabella.fr/jcheckerboard
 		**/
 		var defauts = {
 			speed			: 800,
