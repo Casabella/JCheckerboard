@@ -2,6 +2,7 @@
 		/**
 		*	Author : Hugo Casabella
 		*	URL : hugo.casabella.fr/jcheckerboard
+		*	mode : dev
 		**/
 		var defauts = {
 			speed			: 800,
